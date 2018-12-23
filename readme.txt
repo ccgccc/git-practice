@@ -1,6 +1,7 @@
-Edit on dev branch.
-git is a distrubuted version control system.
-git is free software distributed under GRL.
-git has a mutable index called stage.
-git tracks changes of files.
+Edit on dev branch.a
+Git is a distrubuted version control system.
+Git is free software distributed under GRL.
+Git has a mutable index called stage.
+Git tracks changes of files.
 Creating a new branch is quick and simple.
+Developing on dev branch when there is a bug in master.
